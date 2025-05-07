@@ -48,5 +48,5 @@ Use [ngrok](https://ngrok.com/) to make your app accessible over the internet: n
 
 ## License
 
-MIT License (or your preferred license)
+MIT License
 
