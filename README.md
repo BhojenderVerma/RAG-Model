@@ -38,9 +38,9 @@ Use [ngrok](https://ngrok.com/) to make your app accessible over the internet: n
 
 
 ## Demo
-![query](https://github.com/user-attachments/assets/51f767f8-85a1-40ab-9810-eb61fc7b76f1)
-![response-1](https://github.com/user-attachments/assets/b5fab80d-33cc-4cae-bae5-9f2f6efeffe9)
-![response-2](https://github.com/user-attachments/assets/211e076e-d116-424e-bb7f-746dd65ba18b)
+![query](https://github.com/user-attachments/assets/45651eff-101d-4bd0-9cf8-f66f85d62beb)
+![response-1](https://github.com/user-attachments/assets/3b2efb47-2cc0-4354-be9e-75509cd3417a)
+![response-2](https://github.com/user-attachments/assets/90972537-59ca-4c61-98a4-1358637ea3db)
 
 
 
