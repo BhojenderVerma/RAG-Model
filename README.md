@@ -13,14 +13,16 @@ This project is a Retrieval-Augmented Generation (RAG) app that lets you ask que
 
 1. **Install Ollama**  
    [Download and install Ollama](https://ollama.com/download) and pull a model, e.g.:llama3
+   ollama pull llama3
 
 
-2. **Install Python dependencies**
+3. **Install Python dependencies**
+   pip install -r requirements.txt
 
-3. **Add your PDFs**  
+4. **Add your PDFs**  
 Place your PDF files in the `data/` folder.
 
-4. **Run the app**
+5. **Run the app**
 - Start Ollama in one terminal:
   ```
   ollama serve
@@ -31,7 +33,7 @@ Place your PDF files in the `data/` folder.
   ```
 
 5. **(Optional) Share with others**  
-Use [ngrok](https://ngrok.com/) to make your app accessible over the internet:
+Use [ngrok](https://ngrok.com/) to make your app accessible over the internet: ngrok http 8501
 
 
 
